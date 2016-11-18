@@ -8,6 +8,7 @@ _obj
 _test
 .glide
 .idea
+vendor
 
 # Architecture specific extensions/prefixes
 *.[568vq]
@@ -24,3 +25,5 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+conf/*.yaml
