@@ -1,0 +1,11 @@
+package: github.com/umayr/hungrilla
+import:
+- package: github.com/PuerkitoBio/goquery
+  version: ^1.0.1
+- package: github.com/Sirupsen/logrus
+  version: ~0.11.0
+- package: github.com/umayr/logrus-prefixed-formatter
+- package: github.com/andybalholm/cascadia
+- package: github.com/umayr/inhuman
+  version: ^0.1.0
+- package: github.com/mgutz/ansi
